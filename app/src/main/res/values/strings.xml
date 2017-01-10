@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleRecyclerView</string>
+    <string name="title_award_list">Awards</string>
+    <string name="title_award_detail">Award Detail</string>
+</resources>
